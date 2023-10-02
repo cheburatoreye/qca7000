@@ -32,22 +32,8 @@
 /*====================================================================*
  *   system header files;
  *--------------------------------------------------------------------*/
+#include <Arduino.h>
 
-#include <linux/errno.h>
-#include <linux/etherdevice.h>
-#include <linux/if_arp.h>
-#include <linux/if_ether.h>
-#include <linux/init.h>
-#include <linux/kernel.h>
-#include <linux/kthread.h>		
-#include <linux/module.h>
-#include <linux/moduleparam.h>
-#include <linux/netdevice.h>
-#include <linux/sched.h>
-#include <linux/skbuff.h>
-#include <linux/spi/spi.h>
-#include <linux/types.h>
-#include <linux/version.h>
 
 /*====================================================================*
  *   custom header files;

@@ -36,12 +36,7 @@
  *   system header files;
  *--------------------------------------------------------------------*/
 
-#include <linux/spi/spi.h>
-#include <linux/sched.h>
-#include <linux/types.h>
-#include <linux/skbuff.h>
-#include <linux/netdevice.h>
-
+#include <Arduino.h>
 /*====================================================================*
  *   custom header files;
  *--------------------------------------------------------------------*/
